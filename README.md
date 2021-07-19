@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello, I'm Rahul Aggarwal 👋
 
-<!--
-**rahul130500/rahul130500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m an amateur **web-developer** and an **engineering student** at [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)<br/>
+🌱 I’m currently working as a Senior Developer at [SWC, IIT Guwahati](https://github.com/swciitg)<br/>
+👯 I’m looking to collaborate on any new web technologies.<br/>
+📫 How to reach me:
 
-Here are some ideas to get you started:
+[![Linkedin: Rahul-Aggarwal](https://img.shields.io/badge/-Rahul-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rahul130500/)](https://www.linkedin.com/in/rahul130500/)
+[![mail@rahul](https://img.shields.io/badge/mail%40-Rahul-blue)](mailto:rahulaggarwal@iitg.ac.in)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:  
+
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of the repositories!
+  
+</div>
