@@ -1,7 +1,7 @@
 ## Hello, I'm Rahul Aggarwal 👋
 
-🔭 I’m an amateur **web-developer** and an **engineering student** at [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)<br/>
-🌱 I’m currently working as a Senior Developer at [SWC, IIT Guwahati](https://github.com/swciitg)<br/>
+🔭 I’m an amateur **Web-Developer** and an **Engineering Student** at [Indian Institute of Technology, Guwahati](https://www.iitg.ac.in/)<br/>
+🌱 I’m currently working as the General Secretary of [SWC, IIT Guwahati](https://github.com/swciitg)<br/>
 👯 I’m looking to collaborate on any new web technologies.<br/>
 📫 How to reach me:
 
